@@ -1,2 +1,1 @@
-# help-bot
-Find relevant profiles
+# info-bot
