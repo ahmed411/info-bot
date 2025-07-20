@@ -1,2 +1,2 @@
-# profile-finder
+# help-bot
 Find relevant profiles
