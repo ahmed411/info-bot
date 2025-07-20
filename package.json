@@ -1,28 +1,20 @@
 {
-  "name": "help-bot",
+  "name": "info-bot",
   "version": "1.0.0",
-  "description": "Sample chat bot",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js --ignore public/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmed411/profile-finder.git"
+    "url": "git+https://github.com/ahmed411/info-bot.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahmed411/profile-finder/issues"
+    "url": "https://github.com/ahmed411/info-bot/issues"
   },
-  "homepage": "https://github.com/ahmed411/profile-finder#readme",
-  "dependencies": {
-    "dotenv": "^17.2.0",
-    "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.0"
-  }
+  "homepage": "https://github.com/ahmed411/info-bot#readme"
 }
